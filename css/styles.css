@@ -1,1 +1,71 @@
+.first{background-color:white;height:700px;position:relative;}
+body{margin:0;position: relative;font-family: 'Merriweather', serif;}
+h1{margin-top:0;top:100px;left:42%;position:relative;font-size:70px;font-family: 'Amatic SC', cursive;}
+h2{text-align:center;}
+h3{text-align:center;}
+p{text-align: center;}
+.middle-container{margin: auto;width:50%;}
 
+
+.h1p{margin-top:0;position:relative;;top:80px;}
+
+
+  .img2{position: relative;left:85%;bottom:50px;}
+  .img1{position:relative;left:20px;}
+  .mountain{position:absolute;width:50%;height:250px;left:30%;bottom:0;}
+  .queen{width:400px;height:400px;position: relative;left:60px;bottom:300px;}
+  .love{position:absolute;top:5px;right:500px;}
+  .imgflower{float:right;width:100px;height:100px;margin-top:0;position: absolute;}
+  .helloo{margin: auto;}
+
+
+  .footer-link{text-align: center;background-color:none;}
+  .btn{left:45%;background-color:#C2FFD9;}
+  .spann{left:45%;}
+  a:link{color:black;}
+  .bottom-container{height:200px;background-color:#50CB93;position: relative;
+  }
+  .imgf{width:200px;height:200px;float:left;}
+  .moonn{float:right;width:200px;height:200px;}
+  .profile{position:relative;margin-top:100px;}
+
+  .skills{position:relative;top:100px;}
+  .skill-row1{height:300px;}
+
+  .skill-row2{height:300px; position:relative;}
+.pmoon{top:70px;position: absolute;}
+hr{border:6px dotted;border-bottom: none;border-color:#50CB93;width:30%;}
+.btn {margin-top:20px;
+  background: #50CB93;
+  background-image: -webkit-linear-gradient(top, #50CB93, #50CB93);
+  background-image: -moz-linear-gradient(top, #50CB93, #50CB93);
+  background-image: -ms-linear-gradient(top, #50CB93, #50CB93);
+  background-image: -o-linear-gradient(top, #50CB93, #50CB93);
+  background-image: linear-gradient(to bottom, #50CB93, #50CB93);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid 50CB93 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2ec72e;
+  background-image: -webkit-linear-gradient(top, #2ec72e, #2ec72e);
+  background-image: -moz-linear-gradient(top, #2ec72e, #2ec72e);
+  background-image: -ms-linear-gradient(top, #2ec72e, #2ec72e);
+  background-image: -o-linear-gradient(top, #2ec72e, #2ec72e);
+  background-image: linear-gradient(to bottom, #2ec72e, #2ec72e);
+  text-decoration: none;
+}
+.contact-me{margin:50px auto 50px auto;}
+.bibi{top:20px;position:absolute;margin-left:38%;
+}
+.bi{bottom:5px;position:absolute; margin-left: 45%;}
+.footer-link{margin:20px;background-color: none}
+a:link{text-decoration: none;background-color: none;}
+a:hover{color:white;}
